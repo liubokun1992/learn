@@ -1,4 +1,4 @@
-package com.example.lbk.MyDesignPattren.Controller;
+package com.example.lbk.MyDesignPattren.proxy;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
