@@ -10,6 +10,15 @@ public class MyTask extends TimerTask{
 		System.out.println("hello world!");
 	}
 	
+	public void testNewTread() {
+		new Thread(new Runnable() {
+			@Override
+			public void run() {
+				
+			}
+		}).start();
+	}
+	
 	public static void main(String[] args) {
 		//创建定时器对象
 		Timer timer = new Timer();
