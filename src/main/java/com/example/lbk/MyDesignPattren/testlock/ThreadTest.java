@@ -1,4 +1,4 @@
-package testlock;
+package com.example.lbk.MyDesignPattren.testlock;
 
 public class ThreadTest {
 	
